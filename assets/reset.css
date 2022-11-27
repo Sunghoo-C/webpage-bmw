@@ -18,11 +18,11 @@ html {font-size: 0.625em;}
 
 
 body{
-font-family:'Fredoka One', cursive;
+font-family:'Fredoka One', sans-serif;
 line-height:1;
 background: #eee;
 }
-body *{font-family:'Fredoka One', cursive;}
+body *{font-family:'Fredoka One', sans-serif}
 
 article,aside,details,figcaption,figure, footer,header,hgroup,menu,nav,section{
 display:block;
